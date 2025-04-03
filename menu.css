@@ -1,0 +1,25 @@
+header {
+    background-color: rgb(60, 59, 58);
+    padding: 1rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+section{
+    display: flex;
+    gap: 2rem;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+.menu:hover {
+color: white;
+padding: 0.5em;;
+border-radius: 4px;
+}
+.menu{
+    color: aqua;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}

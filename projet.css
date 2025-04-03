@@ -1,0 +1,17 @@
+flex-container{
+    display: block;
+    justify-content: center;
+
+}
+.bloc {
+padding: 1rem;
+
+}
+.bloc p {
+    text-align: justify;
+    color: black;
+}
+.bloc h3{
+    color: brown;
+    text-align: center;
+}

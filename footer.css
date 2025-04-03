@@ -1,0 +1,33 @@
+footer{
+    background-color: rgb(60, 59, 58); 
+    color:rgb(177, 69, 69);
+    justify-content: space-between;
+    margin-top: 2rem;
+    padding: 0.5rem;
+
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+footer p{
+    font-size: 1rem;
+    margin: auto;
+    color: white;
+}
+footer h5{
+    text-transform: uppercase;
+
+}
+.mail{
+    font-size: 10px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.tel{
+    font-size: 10px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
